@@ -1,0 +1,1 @@
+En este proyecto desarrollaremos un modelo de predicción del clima, partiendo de la base de datos abierta del SIATA para sus estaciones metereologicas
