@@ -1,1 +1,24 @@
-En este proyecto desarrollaremos un modelo de predicción del clima, partiendo de la base de datos abierta del SIATA para sus estaciones metereologicas
+
+# Climate Prediction Model
+En este proyecto desarrollaremos un modelo de predicción del clima, partiendo de la base de datos abierta del gobierno colombiano [datos.gov.co](https://datos.gov.co/) para sus estaciones metereologicas. 
+
+
+## Roadmap
+
+- Extracción y limpieza de datos
+
+- Analisis de datos
+
+- Desarrollo del Modelo
+
+- Generación De Predicciónes
+
+
+## Authors
+
+- [@juanjoselondono](https://github.com/juanjoselondono/)
+- Sergio Gallón
+
+## License
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
