@@ -1,7 +1,7 @@
 
 ## Autores
 
-- [@juanjoselondono](https://github.com/juanjoselondono/)
+- [@juanjoselondono](https://github.com/juanjoselondono/) Juan José Londoño David
 - Sergio Gallón Bergonzoli
 
 # Climate Prediction Model
