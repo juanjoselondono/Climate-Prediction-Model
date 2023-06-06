@@ -1,4 +1,9 @@
 
+## Autores
+
+- [@juanjoselondono](https://github.com/juanjoselondono/)
+- Sergio Gallón Bergonzoli
+
 # Climate Prediction Model
 En este proyecto desarrollaremos un modelo de predicción del clima, partiendo de la base de datos abierta del gobierno colombiano [datos.gov.co](https://datos.gov.co/) para sus estaciones metereologicas. 
 
@@ -12,12 +17,6 @@ En este proyecto desarrollaremos un modelo de predicción del clima, partiendo d
 - Desarrollo del Modelo
 
 - Generación De Predicciónes
-
-
-## Authors
-
-- [@juanjoselondono](https://github.com/juanjoselondono/)
-- Sergio Gallón
 
 ## License
 
